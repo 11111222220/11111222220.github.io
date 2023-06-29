@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Jun 2023 18:38:32 +0800</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MyFirstArticles</title>
+      <link>/post/myfirstarticles/</link>
+      <pubDate>Thu, 29 Jun 2023 18:38:32 +0800</pubDate>
+      
+      <guid>/post/myfirstarticles/</guid>
+      <description>
+        
+          
+            #问题：在完成所有步骤后打开网址显示404 not found，发现没有打开fastgithub加速，且设置名称时没有与用户名设置相同 解决：挂好fastgithub，改好名称即可
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
